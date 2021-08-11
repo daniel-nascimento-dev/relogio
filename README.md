@@ -1,4 +1,4 @@
-#relógio analógico :clock930:
+#relógio analógico 
 
 O javascript vai selecionar alguns elementos do html: que são os ponteiros.
 e a cada um milissegundo o ponteiro dos segundos vai se mover, e outros 
